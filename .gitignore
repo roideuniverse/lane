@@ -20,3 +20,14 @@ _cgo_export.*
 _testmain.go
 
 *.exe
+
+_vendor/
+lunch-time-go-api
+
+#Intellij files
+*.iml
+.idea/
+.idea/libraries/GOPATH__lane_.xml
+
+#Environment variable file
+.env
